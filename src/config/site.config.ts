@@ -1,7 +1,7 @@
 export const siteConfig = {
-  title: "BritishFiles",
-  seoTitle: "British-news title",
-  seoDescription: "British-news description",
+  title: "CzechFiles",
+  seoTitle: "Czech-news title",
+  seoDescription: "Czech-news description",
 
   navItems: [
     {
